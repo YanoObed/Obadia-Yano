@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ARC Project 2025 in Kaggle](https://www.kaggle.com/competitions/arc-prize-2025)
 
-- 🌱 I’m currently learning **Power BI advanced DAX, R Shiny, and React.js for front-end data visualization**
+- 🌱 I’m currently working with **Power BI advanced DAX, R Shiny, and React.js for front-end data visualization**
 
 - 👯 I’m looking to collaborate on [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YanoObed](https://github.com/YanoObed)
 
-- 💬 Ask me about **Data wrangling (Python/R), dashboard design (Power BI/Tableau), and survey analysis (SPSS/Stata)**
+- 💬 Ask me about **Data wrangling (Python/R /R), dashboard design (Power BI/Tableau), and survey analysis (SPSS/Stata)**
 
 - 📫 How to reach me **obadiayano45@gmail.com**
 
